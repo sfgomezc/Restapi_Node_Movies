@@ -1,4 +1,4 @@
-# Server
+# Server CRUD Movies
 
 Este proyecto es una REST API usando Node.js que tiene un CRUD con cambios temporales (mientras se ejecuta ejecución) basado en un archivo `sample.json`.
 
