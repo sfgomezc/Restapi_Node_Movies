@@ -17,6 +17,6 @@ app.use('/api/movies', require('./routes/movies'))
 
 //starting the server
 app.listen(app.get('port'), () => {
-    console.log("Server on port: ${5000}");
+    console.log(`Server on port: ${app.get('port')}.`);
 });
 
